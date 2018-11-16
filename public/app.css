@@ -1,0 +1,28 @@
+i.icon.code {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+/*.right.chevron.icon{*/
+/*    padding-top: 6px;*/
+/*}*/
+
+/*#readMore{*/
+/*    height : 50px;*/
+/*    padding-bottom: 5px;*/
+/*}*/
+
+.ui.inverted.menu .item, .ui.inverted.menu .item>a:not(.ui){
+    color: white;
+}
+
+div#blogContent{
+    padding: 3% 0;
+}
